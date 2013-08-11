@@ -1,0 +1,185 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/OCTO-JBU/Works/AgileSpirit/AgileBlog/css/presentation.css",
+		"/Users/OCTO-JBU/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/OCTO-JBU/Works/Allianz/orbis/pom.xml",
+		"/Users/OCTO-JBU/Works/AgileSpirit/AgileBlog/css/style.css",
+		"/Users/OCTO-JBU/Works/Allianz/platform/cache/xsd/scop-entities.xsd",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php",
+		"/Users/OCTO-JBU/Works/AgileSpirit/AgileBlog/index.html",
+		"/Users/OCTO-JBU/Works/AgileSpirit/AgileBlog/template.html",
+		"/Users/OCTO-JBU/Works/Allianz/platform/bin/scop.cmd",
+		"/Users/OCTO-JBU/Works/Allianz/platform/bin/tool.cmd",
+		"/Users/OCTO-JBU/Works/Allianz/platform/bin/usesvn.cmd",
+		"/Users/OCTO-JBU/Works/Allianz/platform/bin/aaam.cmd",
+		"/Users/OCTO-JBU/Works/Allianz/platform/bin/alis2.cmd",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/interfaces/ui/questionnaire/desktop/finalization/approval/DesktopApprovalPage.html",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/interfaces/ui/questionnaire/mobile/finalization/approval/ApprovalPage.html",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/interfaces/ui/questionnaire/QuestionnaireApplication.properties",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/domain/analysis/rules/RuleFactory.java",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/domain/questionnaire/QuestionnaireFactory.java",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/src/main/java/com/swisslife/qs/domain/template/TemplateFactory.java",
+		"/Users/OCTO-JBU/Works/SwissLife/questionnaire-sante/questionnaire-sante.sublime-project",
+		"/Users/OCTO-JBU/Works/Workspace/CurriculumVitae/js/resume.js",
+		"/Users/OCTO-JBU/Works/Workspace/CurriculumVitae/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"orange",
+			"h3",
+			"électo",
+			"electo",
+			"QUESTIONNAIRE_SPECIFIQUE",
+			"Questionnaire spéci",
+			"\\'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"’"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "agilespirit.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

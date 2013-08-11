@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Agile Blog\n"
+"POT-Creation-Date: 2013-08-06 00:19+0100\n"
+"PO-Revision-Date: 2013-08-06 01:13+0100\n"
+"Last-Translator: Jérémy Buget <jbuget@agile-spirit.fr>\n"
+"Language-Team: Agile Spirit <contact@agile-spirit.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Navigation commentée"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; Anciens commentaires"
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Derniers commentaires &rarr;"
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "Les commentaires sont désactivés."
+
+#: content.php:14
+msgid "Featured post"
+msgstr "Article mis en avant"
+
+#: content.php:28
+msgid "Edit"
+msgstr "Modifier"
+
+#: content.php:38
+msgid "Continue reading <span>&rarr;</span>"
+msgstr "Poursuivre la lecture <span>&rarr;</span>"
+
+#: content.php:39
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content.php:46
+msgid "Leave a comment"
+msgstr "Laisser un commentaire 2"
+
+#: content.php:46
+msgid "One comment so far"
+msgstr "Un seul commentaire à ce jour"
+
+#: content.php:46
+#, php-format
+msgid "View all % comments"
+msgstr "Afficher les % commentaires"
+
+#: content.php:56
+#, php-format
+msgid "About %s"
+msgstr "A propos de %s"
+
+#: content.php:60
+#, php-format
+msgid "View all posts by %s <span>&rarr;</span>"
+msgstr "Afficher tous les articles par %s <span>&rarr;</span>"
+
+#: functions.php:4
+msgid "Main Widget Area"
+msgstr "Zone des principaux Widgets "
+
+#: functions.php:6
+msgid "Appears in the footer section of the site."
+msgstr "Apparaît en pied-de-page du site."
+
+#: functions.php:27
+msgid "Sticky"
+msgstr "Mis en avant"
+
+#: functions.php:33 functions.php:39
+msgid ", "
+msgstr ", "
+
+#: functions.php:48
+#, php-format
+msgid "View all posts by %s"
+msgstr "Afficher tous les articles par %s"
+
+#: functions.php:74
+#, php-format
+msgid "Permalink to %s"
+msgstr "Lien permanent vers %s"
+
+#: index.php:36
+msgid "No posts to display"
+msgstr "Il n'y a pas d'article à afficher"
+
+#: index.php:40
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier billet ? <a href=\"%s\">Commencer ici</a>."
+
+#: index.php:47
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: index.php:51
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Désolé, nous n'avons pas trouvé de résultat correspondant à votre recherche."

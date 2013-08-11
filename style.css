@@ -1,0 +1,108 @@
+/*
+Theme Name: Agile Spirit
+Theme URI: http://wordpress.org/
+Description: Agile Spirit 2013 Wordpress theme.
+Author: AgileSpirit
+Author URI: http://agile-spirit.fr
+Version: 1.0
+Tags: two-columns, white, blue, fixed-width
+
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+General comments (optional).
+*/
+
+/* -----------------------------------------
+   Typography
+----------------------------------------- */
+
+body,h1,h2,h3,h4,h5,h6,p {font-family: 'Open Sans', sans-serif;}
+h1,h2,h3,h4,h5,h6,a:link {font-weight:300;}
+
+/* -----------------------------------------
+   Header
+----------------------------------------- */
+
+#site-header { background-color: #2ba6cb; padding: 22px 0; color: #fff; }
+
+#site-header .title, 
+#site-header .title a, 
+#site-header .description { text-decoration: none; color: #fff; }
+
+/* -----------------------------------------
+   Footer
+----------------------------------------- */
+
+#site-footer { color: #fff; }
+#site-footer p { font-weight: 300; }
+#site-footer-top { background-color: #1399bd; padding: 40px 0; }
+#site-footer-bottom { background: #333; padding: 24px 0 10px; color: #222222; }
+
+/* -----------------------------------------
+ * SEARCH FORM
+----------------------------------------- */
+
+.search-form input[type="text"] {
+  font-weight: 200;
+  color: #999;
+  background-color: white;
+  margin: 0 0 12px 0;
+  padding: 6px;
+  height: 32px;
+  width: 100px;
+}
+.search-form input[type="submit"] {
+width: 100%;
+text-align: center;
+padding-left: 0px !important;
+padding-right: 0px !important;
+color: white;
+background-color: #2284a1;
+background: #2ba6cb;
+border: 1px solid #1e728c;
+-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+color: white;
+cursor: pointer;
+display: inline-block;
+font-family: inherit;
+font-size: 14px;
+font-weight: bold;
+line-height: 1;
+margin: 0;
+padding: 10px 20px 11px;
+position: relative;
+text-decoration: none;
+-webkit-transition: background-color 0.15s ease-in-out;
+-moz-transition: background-color 0.15s ease-in-out;
+-o-transition: background-color 0.15s ease-in-out;
+transition: background-color 0.15s ease-in-out;
+box-sizing: border-box;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+}
+
+/* -----------------------------------------
+ * SIDE BAR - GENERAL
+----------------------------------------- */
+
+.widget {
+  border: 1px solid #eeeeee;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.widget ul {
+  list-style: none;
+}
+
+/* -----------------------------------------
+ * SIDE BAR - WHY
+----------------------------------------- */
+
+.widget .why {
+  border: 1px solid #eeeeee;
+  padding: 10px 20px 20px;
+}

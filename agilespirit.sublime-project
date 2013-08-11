@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/agilespirit"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/twentythirteen"
+		}
+	]
+}
